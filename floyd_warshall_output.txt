@@ -1,0 +1,12 @@
+Distance Matrix (D):
+    0    5   15   10
+   20    0   10    5
+   30   35    0   15
+   15   20    5    0
+
+Predecessor Matrix (P):
+    0    1    4    2
+    4    0    4    2
+    3    1    0    3
+    4    1    4    0
+
